@@ -62,9 +62,6 @@ services:
       - aliAccessKeySecret=xxxx
       - aliSignName=xxxxx
       - aliTemplateCode=SMS_xxxx
-      # google V3 安全校验（可选）
-      - CLIENT_GOOGLE_VER_TOKEN=xxx
-      - SERVICE_GOOGLE_VER_TOKEN=xx
       # token加密凭证（随便填，作为登录凭证）
       - TOKEN_KEY=any
       # root key, 最高权限，可以内部接口互相调用
