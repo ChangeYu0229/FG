@@ -172,7 +172,7 @@ const Home = () => {
           fontSize={['40px', '70px']}
           letterSpacing={'5px'}
         >
-          FastGpt
+          一心万问
         </Box>
         <Box className={styles.textlg} fontWeight={'bold'} fontSize={['30px', '50px']}>
           三分钟
@@ -196,10 +196,10 @@ const Home = () => {
               bg: 'myGray.800',
               color: 'white'
             }}
-            leftIcon={<MyIcon name={'git'} w={'20px'} />}
-            onClick={() => window.open('https://github.com/labring/FastGPT', '_blank')}
+           
+            onClick={() => window.open('https://link3.cc/aipro', '_blank')}
           >
-            Stars {(star / 1000).toFixed(1)}k
+           AI 实验室
           </Button>
           <Button
             fontSize={['xl', '3xl']}

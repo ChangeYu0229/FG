@@ -55,8 +55,8 @@ services:
       - AXIOS_PROXY_HOST=127.0.0.1
       - AXIOS_PROXY_PORT=7890
       # 发送邮箱验证码配置。用的是QQ邮箱。参考 nodeMail 获取MAILE_CODE，自行百度。
-      - MY_MAIL=54545@qq.com
-      - MAILE_CODE=1234
+      - MY_MAIL=542545318@qq.com
+      - MAILE_CODE=xqctznbyjssjbbjd
       # 阿里短信服务（邮箱和短信至少二选一）
       - aliAccessKeyId=xxxx
       - aliAccessKeySecret=xxxx
